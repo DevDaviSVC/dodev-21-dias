@@ -1,0 +1,1 @@
+console.log('Código sendo executado diretamente de um arquivo js')
